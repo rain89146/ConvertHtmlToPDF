@@ -1,0 +1,8 @@
+/node_modules
+/dist
+.env
+.vscode
+/htmlfolder
+/pdffolder
+commitlint.config.js
+package-lock.json
